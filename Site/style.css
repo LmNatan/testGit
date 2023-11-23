@@ -1,0 +1,21 @@
+
+
+
+@media only screen and (max-width: 768px) {
+    /* Règles CSS pour la version mobile */
+    input[type="search"] {
+        padding: 3vw;
+        border-radius: 3px;
+        background-color: #ffffff;
+        float: right;
+        margin: 4vw;
+      }
+
+    #carte{
+        width: 100%;
+    }
+
+    #logo{
+        width: 15vw;
+    }
+  }
